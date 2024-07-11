@@ -1,5 +1,8 @@
 # Global Sales and Shipping Analytics Dashboard
 
+![Tableau Visualisation Dashboard](https://github.com/gappeah/tableau-visual-project/assets/114095068/450d984b-679b-4c8c-a745-ea05e2a3217e)
+
+
 ## Overview
 This Tableau project provides a comprehensive visual analysis of global sales, shipping costs, and quality metrics across different regions and countries.
 
